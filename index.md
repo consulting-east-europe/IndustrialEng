@@ -42,7 +42,7 @@ My core competencies include advanced technology integration, the implementation
     * Optimized engineering department operations, transitioning from reactive approaches to proactive project management, resulting in a 10% reduction in construction and repair costs.
 * **Project Engineer** - The FLAG Service Frankfurt GmbH, Germany [the-flag.de/en/](https://the-flag.de/en/) Apr 2022 – Apr 2023
     * Managed the construction of new hotels in Hamburg and Munich, successfully implementing energy-saving measures that yielded a 15% reduction in energy consumption.
-* **Project Manager** - Home Group, Ukraine [homegroupholding.com/](https://homegroupholdings.com/about-us/)/) Jan 2020 – Jan 2022
+* **Project Manager** - Home Group, Ukraine [homegroupholding.com/](https://homegroupholdings.com/about-us/) Jan 2020 – Jan 2022
     * Successfully delivered a major project valued at $17 million – a new foam manufacturing plant, overseeing all phases from initial construction to operational commissioning.
 * **Project Manager** - Nestlé, Ukraine [nestle.ua/aboutus/](https://www.nestle.ua/aboutus/) Jul 2017 – Jan 2020
     * Directed the planning and execution of significant capital projects (ranging from $3-12 million) across multiple production sites, encompassing procurement, commissioning, and equipment installation.
