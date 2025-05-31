@@ -76,7 +76,7 @@ My core competencies include advanced technology integration, the implementation
 
 ### Education & Qualifications
 
-* **Master's Degree in Mechanical Engineering** (Construction, Design, and Operation of Oil & Gas Pipelines and Storage Tanks) - Ivano-Frankivsk State Technical University of Oil and Gas (1999) — Recognized by the EU.
+* **Mechanical Engineering** (Construction, Design, and Operation of Oil & Gas Pipelines and Storage Tanks) - Ivano-Frankivsk State Technical University of Oil and Gas (1999) — Recognized by the EU.
 * **Certified Design Engineer** - Institute of Oil Transportation, Kyiv (1999)
 * **Certified Specialist in Health, Safety, Environment in Project & Construction Works** - SAIPEM, ENI Group Romania, Bucharest (2003)
 * **Project Management Professional (PMP)**
