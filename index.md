@@ -30,7 +30,7 @@ My core competencies include advanced technology integration, the implementation
 * Advanced Technology Integration (Hygiene & GMP/Food Safety)
 * Comprehensive Risk Management & Critical Analysis
 * Empathetic Team Leadership & Motivation
-* Languages: Ukrainian (Native), English (Fluent), German (B1-B2)
+* Languages: English (Fluent), German (B1-B2), Ukrainian (Native), Russian
 * FIDIC Contracts Compliance
 * Software Proficiency: AutoCAD, MS Project, SAP
 
