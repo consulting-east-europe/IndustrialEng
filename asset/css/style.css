@@ -1,7 +1,9 @@
-/* Приховуємо конкретний заголовок-посилання "IndustrialEngineer" 
-*/
-body > div > h1:nth-child(1) > a {
+/* Приховуємо заголовок-посилання, що є посиланням на головну сторінку */
+/* Цей селектор знайде будь-яке посилання, яке є частиною заголовка h1 
+   І яке має саме цей URL */
+h1 a[href="https://consulting-east-europe.github.io/IndustrialEngineer/"] {
     display: none !important;
+}
 }
 /* Прибираємо рамки для елементів списку */
 .markdown-body ul li {
