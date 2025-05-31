@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/asset/css/style.css">
 
 # Denys Babenko
 ### Mechanical Engineer | Project Manager
