@@ -1,3 +1,9 @@
+/* Тимчасовий коментар для збереження */
+
+/* Всі ваші існуючі CSS правила йдуть нижче */
+h1 a[href="https://consulting-east-europe.github.io/IndustrialEngineer/"] {
+    display: none !important;
+}
 h1 a[href="https://consulting-east-europe.github.io/IndustrialEngineer/"] {
     display: none !important;
 }
