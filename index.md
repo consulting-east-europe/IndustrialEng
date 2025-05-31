@@ -1,6 +1,6 @@
 **Denys Babenko**
 
-**Mechanical Engineer | Project Management Professional**
+**Mechanical Engineer | Project Manager**
 
 **Contact**
 
