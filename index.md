@@ -68,7 +68,7 @@ My core competencies include advanced technology integration, the implementation
 * **Technology specialist** - DP ACIS-Україна ([https://acis.ru/about/com](https://acis.ru/about/com)), Ukraine (Apr 2001 – Feb 2003)
     * Managed the strategic supply and procurement of technological equipment and materials for various significant projects (e.g., TNK, SHELL, Lukoil, Tatneft, ANP Gas Stations).
     * Contributed to the organizational development and operational planning of the company, including budgeting, demonstrating early experience in operational management and quality assurance for delivered components.
-* **Engineer of Technology Department** - AT Institute of Oil Transport ([https://itn.ua/index.php/en/](https://itn.ua/index.php/en/)), Ukraine (Aug 1999 – Feb 2001)
+* **Design-engineer of Technology Department** - AT Institute of Oil Transport ([https://itn.ua/index.php/en/](https://itn.ua/index.php/en/)), Ukraine (Aug 1999 – Feb 2001)
     * Contributed to the design and technological development of oil and gas facilities, including large-scale pipeline construction (e.g., Odesa-Brody pipeline), oil depots, and advanced gas station technology.
     * Managed the organization of design processes, author's supervision, and the comprehensive completion and transfer of project documentation.
 
