@@ -46,7 +46,7 @@ My core competencies include advanced technology integration, the implementation
     * Successfully delivered a major project valued at $17 million – a new foam manufacturing plant, overseeing all phases from initial construction to operational commissioning.
 * **Project Manager** - Nestlé, Ukraine [nestle.ua/aboutus/](https://www.nestle.ua/aboutus/) Jul 2017 – Jan 2020
     * Directed the planning and execution of significant capital projects (ranging from $3-12 million) across multiple production sites, encompassing procurement, commissioning, and equipment installation.
-* **Lead Technical Specialist** - IC UNIQA, Ukraine [uniqa.ua](https://uniqa.ua), Jul 2017 – Aug 2017
+* **Lead Technical Specialist** - IC UNIQA, Ukraine [uniqa.ua](https://uniqa.ua/en/), Jul 2017 – Aug 2017
     * Provided specialized technical expertise in risk assessment for diverse industrial and commercial facilities, including the Kalush Chemical Plant.
 * **Construction Specialist / WASH-Officer** - UNICEF, Ukraine [unicef.org/ua/](https://www.unicef.org/ua/), 2015 – 2017
     * Managed critical reconstruction projects in Kramatorsk, overseeing the renovation of 30 schools and kindergartens (windows, roofs, heating, gyms).
