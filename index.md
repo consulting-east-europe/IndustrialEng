@@ -10,7 +10,7 @@
 * **Location:** Frankfurt am Main, Germany
 * **Phone:** +380 639934728 (WhatsApp)
 * **Email:** d_babenko@ukr.net
-* **Website:** [consulting-east-europe.github.io/IndustrialEngineer](consulting-east-europe.github.io/IndustrialEngineer)
+* **Website:** [consulting-east-europe.github.io/IndustrialEngineer](https://consulting-east-europe.github.io/IndustrialEngineer/)
 
 ---
 
