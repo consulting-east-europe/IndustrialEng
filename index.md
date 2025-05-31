@@ -10,7 +10,7 @@
 * **Location:** Frankfurt am Main, Germany
 * **Phone:** +380 639934728 (WhatsApp)
 * **Email:** d_babenko@ukr.net
-* **Website:** consulting-east-europe.github.io/IndustrialEngineer
+* **Website:** [consulting-east-europe.github.io/IndustrialEngineer](consulting-east-europe.github.io/IndustrialEngineer)
 
 ---
 
@@ -40,15 +40,15 @@ My core competencies include advanced technology integration, the implementation
 
 * **Chief Engineer** - Agrosem, Ukraine, [agrosem.ua/en](https://agrosem.ua/en/) Oct 2023 – June 2024
     * Optimized engineering department operations, transitioning from reactive approaches to proactive project management, resulting in a 10% reduction in construction and repair costs.
-* **Project Engineer** - The FLAG Service Frankfurt GmbH, Germany [the-flag.de/en/](https://the-flag.de/en/) Apr 2022 – Apr 2023
+* **Project Engineer** - The FLAG Service Frankfurt GmbH, Germany [the-flag.de/en](https://the-flag.de/en/) Apr 2022 – Apr 2023
     * Managed the construction of new hotels in Hamburg and Munich, successfully implementing energy-saving measures that yielded a 15% reduction in energy consumption.
-* **Project Manager** - Home Group, Ukraine [homegroupholding.com/](https://homegroupholdings.com/about-us/) Jan 2020 – Jan 2022
+* **Project Manager** - Home Group, Ukraine [homegroupholding.com](https://homegroupholdings.com/about-us/) Jan 2020 – Jan 2022
     * Successfully delivered a major project valued at $17 million – a new foam manufacturing plant, overseeing all phases from initial construction to operational commissioning.
-* **Project Manager** - Nestlé, Ukraine [nestle.ua/aboutus/](https://www.nestle.ua/aboutus/) Jul 2017 – Jan 2020
+* **Project Manager** - Nestlé, Ukraine [nestle.ua/aboutus](https://www.nestle.ua/aboutus/) Jul 2017 – Jan 2020
     * Directed the planning and execution of significant capital projects (ranging from $3-12 million) across multiple production sites, encompassing procurement, commissioning, and equipment installation.
 * **Lead Technical Specialist** - IC UNIQA, Ukraine [uniqa.ua](https://uniqa.ua/en/), Jul 2017 – Aug 2017
     * Provided specialized technical expertise in risk assessment for diverse industrial and commercial facilities, including the Kalush Chemical Plant.
-* **Construction Specialist / WASH-Officer** - UNICEF, Ukraine [unicef.org/ua/](https://www.unicef.org/ua/), 2015 – 2017
+* **Construction Specialist / WASH-Officer** - UNICEF, Ukraine [unicef.org/ua](https://www.unicef.org/ua/), 2015 – 2017
     * Managed critical reconstruction projects in Kramatorsk, overseeing the renovation of 30 schools and kindergartens (windows, roofs, heating, gyms).
     * Led WASH (Water, Sanitation, and Hygiene) initiatives, including the restoration and modernization of water supply and sewage infrastructure in Southern Donbas, encompassing dam repair, pipeline replacement, and pumping/sewage station reconstruction.
 * **Project Manager** - Arterium, Ukr. [https://www.arterium.ua](https://www.arterium.ua/en/presskit), Jul 2013 – Oct 2014
@@ -63,12 +63,12 @@ My core competencies include advanced technology integration, the implementation
 * **Project Manager** - Firex, Ukr [firex.ua/o-kompanii](http://firex.ua/o-kompanii), Aug 2007 – Feb 2008
     * Managed comprehensive fire protection system projects, encompassing requirements calculation, supply, and implementation of advanced smoke extraction systems for large commercial and logistics complexes (e.g., Podolyany Ternopil, Metro, totaling 124,000 sq.m.).
     * Directly responsible for ensuring the precise installation and operational functionality of safety systems and their formal acceptance.
-* **Sales Engineer** - VTS Klima, Ukr [vtsgroup.com/ua/](https://vtsgroup.com/ua/), June 2003 – Oct 2003
+* **Sales Engineer** - VTS Klima, Ukr [vtsgroup.com/ua](https://vtsgroup.com/ua/), June 2003 – Oct 2003
     * Actively involved in the selection and successful installation of ventilation systems for pharmaceutical facilities, industrial factories, and commercial buildings.
 * **Technology specialist** - DP ACIS-Ukraine [acis.ru/about/com](https://acis.ru/about/com), Apr 2001 – Feb 2003
     * Managed the strategic supply and procurement of technological equipment and materials for various significant projects (e.g., TNK, SHELL, Lukoil, Tatneft, ANP Gas Stations).
     * Contributed to the organizational development and operational planning of the company, including budgeting, demonstrating early experience in operational management and quality assurance for delivered components.
-* **Design-engineer of Technology** - Institute of Oil Transport [itn.ua/index.php/en/](https://itn.ua/index.php/en/), Aug 1999 – Feb 2001
+* **Design-engineer of Technology** - Institute of Oil Transport [itn.ua/index.php/en](https://itn.ua/index.php/en/), Aug 1999 – Feb 2001
     * Contributed to the design and technological development of oil and gas facilities, including large-scale pipeline construction (e.g., Odesa-Brody pipeline), oil depots, and advanced gas station technology.
     * Managed the organization of design processes, author's supervision, and the comprehensive completion and transfer of project documentation.
 
