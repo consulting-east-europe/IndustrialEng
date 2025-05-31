@@ -51,7 +51,7 @@ My core competencies include advanced technology integration, the implementation
 * **Construction Specialist / WASH-Officer** - UNICEF, Ukraine [unicef.org/ua/](https://www.unicef.org/ua/), 2015 – 2017
     * Managed critical reconstruction projects in Kramatorsk, overseeing the renovation of 30 schools and kindergartens (windows, roofs, heating, gyms).
     * Led WASH (Water, Sanitation, and Hygiene) initiatives, including the restoration and modernization of water supply and sewage infrastructure in Southern Donbas, encompassing dam repair, pipeline replacement, and pumping/sewage station reconstruction.
-* **Project Manager** - Arterium, Ukr. [arterium.ua/philosophy](https://www.arterium.ua/philosophy), Jul 2013 – Oct 2014
+* **Project Manager** - Arterium, Ukr. [https://www.arterium.ua](https://www.arterium.ua/en/presskit), Jul 2013 – Oct 2014
     * Successfully managed the reconstruction of pharmaceutical production workshops (tablet and injection) and clean rooms in strict adherence to GMP requirements; supervised the construction of a dedicated company research center.
 * **Project & Program Manager** - Rustler Property Service, Ukr [novobudovy.com/k](https://novobudovy.com/k), Mar 2012 – Nov 2013
     * Managed comprehensive property and facility management projects, including for prominent business centers (e.g., BC Sofia, Kyiv), demonstrating oversight of diverse building operations.
