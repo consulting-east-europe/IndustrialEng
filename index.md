@@ -60,7 +60,7 @@ My core competencies include advanced technology integration, the implementation
 * **Project Manager** - Alakor, Ukr [artmall.ua/o-trts-art-mall](http://artmall.ua/o-trts-art-mall), Apr 2008 – Feb 2011
     * Managed the design and construction of large-scale commercial and industrial facilities (e.g., ArtMall - 21,000 sq.m, 12,000 sq.m warehouses in Krushynka, Outlet Village Manufactura).
     * Oversaw permitting documentation acquisition, tendering processes, budget management, and supervision of complex engineering networks.
-* **Project Manager** - Firex, Ukr [firex.ua/o-kompanii](http://firex.ua/o-kompanii), Aug 2007 – Feb 2008
+* **Project Manager** - Firex, Ukr [firex.ua/o-kompanii](http://firex.ua/en/), Aug 2007 – Feb 2008
     * Managed comprehensive fire protection system projects, encompassing requirements calculation, supply, and implementation of advanced smoke extraction systems for large commercial and logistics complexes (e.g., Podolyany Ternopil, Metro, totaling 124,000 sq.m.).
     * Directly responsible for ensuring the precise installation and operational functionality of safety systems and their formal acceptance.
 * **Sales Engineer** - VTS Klima, Ukr [vtsgroup.com/ua](https://vtsgroup.com/ua/), June 2003 – Oct 2003
