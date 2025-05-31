@@ -53,7 +53,7 @@ My core competencies include advanced technology integration, the implementation
     * Led WASH (Water, Sanitation, and Hygiene) initiatives, including the restoration and modernization of water supply and sewage infrastructure in Southern Donbas, encompassing dam repair, pipeline replacement, and pumping/sewage station reconstruction.
 * **Project Manager** - Arterium, Ukr. [https://www.arterium.ua](https://www.arterium.ua/en/presskit), Jul 2013 – Oct 2014
     * Successfully managed the reconstruction of pharmaceutical production workshops (tablet and injection) and clean rooms in strict adherence to GMP requirements; supervised the construction of a dedicated company research center.
-* **Project & Program Manager** - Rustler Property Service, Ukr [novobudovy.com/k](https://novobudovy.com/k), Mar 2012 – Nov 2013
+* **Project & Program Manager** - Rustler Property Service, Ukr [https://novobudovy.com/k](https://rustler.com.ua/rustler-group/), Mar 2012 – Nov 2013
     * Managed comprehensive property and facility management projects, including for prominent business centers (e.g., BC Sofia, Kyiv), demonstrating oversight of diverse building operations.
 * **Senior Specialist of Construction** - Premier International, Ukr [premier-palace-hotel.com/ua/kharkiv](https://premier-palace-hotel.com/ua/kharkiv), Feb 2011 – June 2011
     * Contributed to the planning and development of major construction projects, including the Kharkiv Palace Hotel.
