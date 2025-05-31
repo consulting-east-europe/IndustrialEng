@@ -1,6 +1,3 @@
-/* Приховуємо заголовок-посилання, що є посиланням на головну сторінку */
-/* Цей селектор знайде будь-яке посилання, яке є частиною заголовка h1 
-   І яке має саме цей URL */
 h1 a[href="https://consulting-east-europe.github.io/IndustrialEngineer/"] {
     display: none !important;
 }
