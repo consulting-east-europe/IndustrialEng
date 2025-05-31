@@ -38,7 +38,7 @@ My core competencies include advanced technology integration, the implementation
 
 ### Professional Experience
 
-* **Chief Engineer** - Agrosem ([https://agrosem.ua/about](https://agrosem.ua/about)), Ukraine (Oct 2023 – June 2024)
+* **Chief Engineer** - Agrosem, Ukr [https://agrosem.ua/about](https://agrosem.ua/about) Oct 2023 – June 2024
     * Optimized engineering department operations, transitioning from reactive approaches to proactive project management, resulting in a 10% reduction in construction and repair costs.
 * **Project Engineer** - The FLAG Service Frankfurt GmbH ([https://the-flag.de/en/](https://the-flag.de/en/)), Germany (Apr 2022 – Apr 2023)
     * Managed the construction of new hotels in Hamburg and Munich, successfully implementing energy-saving measures that yielded a 15% reduction in energy consumption.
@@ -76,7 +76,7 @@ My core competencies include advanced technology integration, the implementation
 
 ### Education & Qualifications
 
-* **Mechanical Engineering** (Construction, Design, and Operation of Oil & Gas Pipelines and Storage Tanks) - Ivano-Frankivsk State Technical University of Oil and Gas (1999) — Recognized by the EU.
+* **Mechanical Engineer** (Construction, Design, and Operation of Oil & Gas Pipelines and Storage Tanks) - Ivano-Frankivsk State Technical University of Oil and Gas (1999) — Recognized by the EU.
 * **Certified Design Engineer** - Institute of Oil Transportation, Kyiv (1999)
 * **Certified Specialist in Health, Safety, Environment in Project & Construction Works** - SAIPEM, ENI Group Romania, Bucharest (2003)
 * **Project Management Professional (PMP)**
