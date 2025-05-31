@@ -1,18 +1,11 @@
-/* Приховуємо посилання на заголовок сайту у шапці */
-/* Цей селектор приховує будь-яке посилання, яке є прямим нащадком h1, що знаходиться в header */
-header h1 a {
-    display: none !important;
+/* Прибираємо рамки для елементів списку */
+.markdown-body ul li {
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+    padding: 0 !important; /* Прибирає внутрішні відступи */
+    margin: 0 !important;  /* Прибирає зовнішні відступи */
 }
-
-/* Або, якщо h1 сам має клас site-title (що теж можливо) */
-/* .site-title {
-    display: none !important;
-} */
-
-/* Якщо це не допомагає, спробуйте більш загальний, але обережний селектор: */
-/* Це приховає будь-яке посилання, що є прямим нащадком h1, що знаходиться безпосередньо в body */
-/* body > h1 a {
-    display: none !important;
 } */
 /* Прибираємо рамки для елементів списку */
 .markdown-body ul li {
