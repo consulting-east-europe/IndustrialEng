@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="/assets/css/style.css">
+
 # Denys Babenko
 ### Mechanical Engineer | Project Manager
 
@@ -34,6 +35,7 @@ My core competencies include advanced technology integration, the implementation
 * Software Proficiency: AutoCAD, MS Project, SAP
 
 ---
+
 ### Professional Experience
 
 * **Chief Engineer** - Agrosem ([https://agrosem.ua/about](https://agrosem.ua/about)), Ukraine (Oct 2023 – June 2024)
@@ -69,6 +71,7 @@ My core competencies include advanced technology integration, the implementation
 * **Engineer of Technology Department** - AT Institute of Oil Transport ([https://itn.ua/index.php/en/](https://itn.ua/index.php/en/)), Ukraine (Aug 1999 – Feb 2001)
     * Contributed to the design and technological development of oil and gas facilities, including large-scale pipeline construction (e.g., Odesa-Brody pipeline), oil depots, and advanced gas station technology.
     * Managed the organization of design processes, author's supervision, and the comprehensive completion and transfer of project documentation.
+
 ---
 
 ### Education & Qualifications
