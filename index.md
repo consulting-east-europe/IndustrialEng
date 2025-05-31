@@ -55,7 +55,7 @@ My core competencies include advanced technology integration, the implementation
     * Successfully managed the reconstruction of pharmaceutical production workshops (tablet and injection) and clean rooms in strict adherence to GMP requirements; supervised the construction of a dedicated company research center.
 * **Project & Program Manager** - Rustler Property Service, Ukr [https://rustler.com.ua](https://rustler.com.ua/rustler-group/), Mar 2012 – Nov 2013
     * Managed comprehensive property and facility management projects, including for prominent business centers (e.g., BC Sofia, Kyiv), demonstrating oversight of diverse building operations.
-* **Senior Specialist of Construction** - Premier International, Ukr [premier-palace-hotel.com/ua/kharkiv](https://premier-palace-hotel.com/ua/kharkiv), Feb 2011 – June 2011
+* **Senior Specialist of Construction** - Premier International, Ukr [premier-palace-hotel.com/ua/kharkiv](https://kharkiv-palace.com/en/our-hotel/), Feb 2011 – June 2011
     * Contributed to the planning and development of major construction projects, including the Kharkiv Palace Hotel.
 * **Project Manager** - Alakor, Ukr [artmall.ua/o-trts-art-mall](http://artmall.ua/o-trts-art-mall), Apr 2008 – Feb 2011
     * Managed the design and construction of large-scale commercial and industrial facilities (e.g., ArtMall - 21,000 sq.m, 12,000 sq.m warehouses in Krushynka, Outlet Village Manufactura).
