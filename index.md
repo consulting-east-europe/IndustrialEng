@@ -38,13 +38,13 @@ My core competencies include advanced technology integration, the implementation
 
 ### Professional Experience
 
-* **Chief Engineer** - Agrosem, Ukr ([https://agrosem.ua/en/](https://agrosem.ua/en/)) Oct 2023 – June 2024
+* **Chief Engineer** - Agrosem, Ukraine ([https://agrosem.ua/en/](https://agrosem.ua/en/)) Oct 2023 – June 2024
     * Optimized engineering department operations, transitioning from reactive approaches to proactive project management, resulting in a 10% reduction in construction and repair costs.
-* **Project Engineer** - The FLAG Service Frankfurt GmbH ([https://the-flag.de/en/](https://the-flag.de/en/)), Germany (Apr 2022 – Apr 2023)
+* **Project Engineer** - The FLAG Service Frankfurt GmbH, Germany ([https://the-flag.de/en/](https://the-flag.de/en/)) (Apr 2022 – Apr 2023)
     * Managed the construction of new hotels in Hamburg and Munich, successfully implementing energy-saving measures that yielded a 15% reduction in energy consumption.
-* **Project Manager** - Home Group ([https://homegroupholding.com/](https://homegroupholding.com/)), Ukraine (Jan 2020 – Jan 2022)
+* **Project Manager** - Home Group, Ukraine ([https://homegroupholding.com/](https://homegroupholding.com/)) (Jan 2020 – Jan 2022)
     * Successfully delivered a major project valued at $17 million – a new foam manufacturing plant, overseeing all phases from initial construction to operational commissioning.
-* **Project Manager** - Nestlé ([https://www.nestle.ua/aboutus/](https://www.nestle.ua/aboutus/)), Ukraine (Jul 2017 – Jan 2020)
+* **Project Manager** - Nestlé, Ukraine ([https://www.nestle.ua/aboutus/](https://www.nestle.ua/aboutus/)) (Jul 2017 – Jan 2020)
     * Directed the planning and execution of significant capital projects (ranging from $3-12 million) across multiple production sites, encompassing procurement, commissioning, and equipment installation.
 * **Lead Technical Specialist** - SC Uniqa ([https://uniqa.ua](https://uniqa.ua)), Ukraine (Jul 2017 – Aug 2017)
     * Provided specialized technical expertise in risk assessment for diverse industrial and commercial facilities, including the Kalush Chemical Plant.
