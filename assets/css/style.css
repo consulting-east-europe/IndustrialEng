@@ -39,17 +39,56 @@ h1 a[href="https://consulting-east-europe.github.io/IndustrialEngineer/"] {
     padding: 0 !important;
     margin: 0 !important;
 }
-/* Повернення до стандартного вигляду тексту */
+/* Максимальне повернення до старого/стандартного вигляду тексту */
+
+/* Стилі для всього тексту на сторінці */
 body {
-    font-family: sans-serif; /* Використовує стандартний системний шрифт без засічок (як правило, це Arial, Helvetica, або схожий) */
-    font-size: 16px; /* Зазвичай стандартний розмір шрифту */
-    line-height: 1.5; /* Стандартний міжрядковий інтервал */
-    word-wrap: break-word; /* Дозволяє словам розбиватися і переноситися на наступний рядок, якщо вони не поміщаються */
+    /* Використання системного шрифту: залежить від ОС користувача (наприклад, San Francisco для macOS, Segoe UI для Windows, Roboto для Android, тощо) */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 16px; /* Зазвичай стандартний базовий розмір шрифту для більшості браузерів */
+    line-height: 1.6; /* Трохи більший міжрядковий інтервал для кращої читабельності */
+    color: #333; /* Темно-сірий колір тексту для контрасту */
+    word-wrap: break-word; /* Дозволяє дуже довгим словам переноситися */
     word-break: normal; /* Відновлює стандартний перенос слів */
+    margin: 20px auto; /* Невеликі відступи від країв сторінки, авто для центрування (якщо є контейнер) */
+    padding: 0;
+    max-width: 960px; /* Обмежити ширину контенту для кращої читабельності */
 }
 
-/* Якщо заголовки (Denys Babenko, Contact тощо) також змінилися, можна їх теж скинути */
+/* Стилі для всіх заголовків (H1-H6) */
 h1, h2, h3, h4, h5, h6 {
-    font-family: sans-serif;
-    font-weight: bold; /* Забезпечує жирне накреслення для заголовків, як зазвичай */
+    /* Заголовки також з системним шрифтом без засічок */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-weight: bold; /* Забезпечує жирне накреслення */
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    line-height: 1.2;
+    color: #000; /* Чорний колір для заголовків */
+}
+
+/* Стилі для параграфів */
+p {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 1em; /* Використовує базовий розмір шрифту з body */
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
+
+/* Стилі для списків (невпорядкованих та впорядкованих) */
+ul, ol {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 1em;
+    line-height: 1.6;
+    margin-left: 1.5em;
+    margin-bottom: 1em;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+/* Щоб приховати синій заголовок "IndustrialEngineer" */
+h1 a[href="https://consulting-east-europe.github.io/IndustrialEngineer/"] {
+    display: none !important;
 }
