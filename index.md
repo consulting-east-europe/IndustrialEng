@@ -43,35 +43,33 @@ My core competencies include <b>advanced technology integration, the implementat
 * **Chief Engineer** - Agrosem, Ukraine, [agrosem.ua/en](https://agrosem.ua/en/) Oct 2023 – June 2024
     * <b>Optimized engineering department</b> operations, transitioning from reactive approaches to proactive project management, resulting in a <b>10% reduction in construction and repair costs.</b>
 * **Project Engineer** - The FLAG Service Frankfurt GmbH, Germany [the-flag.de/en](https://the-flag.de/en/) Apr 2022 – Apr 2023
-    * Managed the construction of new hotels in Hamburg and Munich, successfully implementing energy-saving measures that yielded a 15% reduction in energy consumption.
+    * Managed the construction of new hotels in Hamburg and Munich, successfully implementing energy-saving measures that yielded a <b>15% reduction in energy consumption.</b>
 * **Project Manager** - Home Group, Ukraine [homegroupholding.com](https://homegroupholdings.com/about-us/) Jan 2020 – Jan 2022
-    * Successfully delivered a major project valued at $17 million – a new foam manufacturing plant, overseeing all phases from initial construction to operational commissioning.
+    * Successfully delivered a major project valued at <b>$17 million – a new foam manufacturing plant</b>, overseeing all phases from initial construction to operational commissioning.
 * **Project Manager** - Nestlé, Ukraine [nestle.ua/aboutus](https://www.nestle.ua/aboutus/) Jul 2017 – Jan 2020
-    * Directed the planning and execution of significant capital projects (ranging from $3-12 million) across multiple production sites, encompassing procurement, commissioning, and equipment installation.
+    * Directed the planning and execution of significant capital projects (ranging from <b>$3-12 million</b>) across multiple production sites, encompassing procurement, commissioning, and equipment installation.
 * **Lead Technical Specialist** - IC UNIQA, Ukraine [uniqa.ua](https://uniqa.ua/en/), Jul 2017 – Aug 2017
-    * Provided specialized technical expertise in risk assessment for diverse industrial and commercial facilities, including the Kalush Chemical Plant.
+    * Provided specialized <b>technical expertise in risk assessment</b> for diverse industrial and commercial facilities, including the <b>Kalush Chemical Plant</b>.
 * **Construction Specialist / WASH-Officer** - UNICEF, Ukraine [unicef.org/ua](https://www.unicef.org/ua/), 2015 – 2017
-    * Managed critical reconstruction projects in Kramatorsk, overseeing the renovation of 30 schools and kindergartens (windows, roofs, heating, gyms).
-    * Led WASH (Water, Sanitation, and Hygiene) initiatives, including the restoration and modernization of water supply and sewage infrastructure in Southern Donbas, encompassing dam repair, pipeline replacement, and pumping/sewage station reconstruction.
+    * Managed critical reconstruction projects in Kramatorsk, overseeing the <b>renovation of 30 schools and kindergartens</b> (windows, roofs, heating, gyms).
+    * Led WASH (Water, Sanitation, and Hygiene) initiatives, including the <b>restoration and modernization of water supply and sewage infrastructure</b> in Southern Donbas, encompassing dam repair, pipeline replacement, and pumping/sewage station reconstruction.
 * **Project Manager** - Arterium, Ukr. [https://www.arterium.ua](https://www.arterium.ua/en/presskit), Jul 2013 – Oct 2014
-    * Successfully managed the reconstruction of pharmaceutical production workshops (tablet and injection) and clean rooms in strict adherence to GMP requirements; supervised the construction of a dedicated company research center.
+    * Successfully managed the <b>reconstruction of pharmaceutical production workshops (tablet and injection) and clean rooms</b> in strict adherence to <b>GMP</b> requirements; supervised the construction of a dedicated company GMPresearch center</b>.
 * **Project & Program Manager** - Rustler Property Service, Ukr [https://rustler.com.ua](https://rustler.com.ua/rustler-group/), Mar 2012 – Nov 2013
-    * Managed comprehensive property and facility management projects, including for prominent business centers (e.g., BC Sofia, Kyiv), demonstrating oversight of diverse building operations.
+    * Managed comprehensive <b>property and facility management projects</b>, including for prominent business centers, demonstrating oversight of diverse building operations.
 * **Senior Specialist of Construction** - Premier International, Ukr [premier-palace-hotel.com/ua/kharkiv](https://kharkiv-palace.com/en/our-hotel/), Feb 2011 – June 2011
-    * Contributed to the planning and development of major construction projects, including the Kharkiv Palace Hotel.
+    * Contributed to the planning and development of major construction projects- <b>Kharkiv Palace Hotel</b>.
 * **Project Manager** - Alakor, Ukr [artmall.ua/o-trts-art-mall](http://artmall.ua/o-trts-art-mall), Apr 2008 – Feb 2011
-    * Managed the design and construction of large-scale commercial and industrial facilities (e.g., ArtMall - 21,000 sq.m, 12,000 sq.m warehouses in Krushynka, Outlet Village Manufactura).
-    * Oversaw permitting documentation acquisition, tendering processes, budget management, and supervision of complex engineering networks.
+    * Managed the design and construction of large-scale commercial and industrial facilities (<b>ArtMall - 21,000 sq.m, 12,000 sq.m warehouses in Krushynka, Outlet Village Manufactura</b>),permits, tenders, budgets, and supervisions
 * **Project Manager** - Firex, Ukr [firex.ua/o-kompanii](http://firex.ua/en/), Aug 2007 – Feb 2008
-    * Managed comprehensive fire protection system projects, encompassing requirements calculation, supply, and implementation of advanced smoke extraction systems for large commercial and logistics complexes (e.g., Podolyany Ternopil, Metro, totaling 124,000 sq.m.).
+    * Managed comprehensive <b>fire protection system projects</b>, encompassing requirements calculation, supply, and implementation of advanced smoke extraction systems for large commercial and logistics complexes (e.g., Podolyany Ternopil, Metro, totaling 124,000 sq.m.).
     * Directly responsible for ensuring the precise installation and operational functionality of safety systems and their formal acceptance.
 * **Sales Engineer** - VTS Klima, Ukr [vtsgroup.com/ua](https://vtsgroup.com/ua/), June 2003 – Oct 2003
-    * Actively involved in the selection and successful installation of ventilation systems for pharmaceutical facilities, industrial factories, and commercial buildings.
+    * Actively involved in the <b>selection and installation of ventilation systems for pharmaceutical facilities, industrial factories, and commercial buildings</b>.
 * **Technology specialist** - DP ACIS-Ukraine [acis.ru/about/com](https://acis.ru/about/com), Apr 2001 – Feb 2003
-    * Managed the strategic supply and procurement of technological equipment and materials for various significant projects (e.g., TNK, SHELL, Lukoil, Tatneft, ANP Gas Stations).
-    * Contributed to the organizational development and operational planning of the company, including budgeting, demonstrating early experience in operational management and quality assurance for delivered components.
+    * Managed the strategic supply and procurement of technological equipment and materials for various significant projects (<b>TNK, SHELL, Lukoil, Tatneft, ANP Gas Stations</b>).
 * **Design-engineer of Technology** - Institute of Oil Transport [itn.ua/index.php/en](https://itn.ua/index.php/en/), Aug 1999 – Feb 2001
-    * Contributed to the design and technological development of oil and gas facilities, including large-scale pipeline construction (e.g., Odesa-Brody pipeline), oil depots, and advanced gas station technology.
+    * Contributed to the <b>design and technological development of oil and gas facilities</b>, including large-scale pipeline construction (e.g., Odesa-Brody pipeline), oil depots, and advanced gas station technology.
     * Managed the organization of design processes, author's supervision, and the comprehensive completion and transfer of project documentation.
 
 ---
