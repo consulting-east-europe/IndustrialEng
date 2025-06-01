@@ -41,7 +41,7 @@ My core competencies include <b>advanced technology integration, the implementat
 ### Professional Experience
 
 * **Chief Engineer** - Agrosem, Ukraine, [agrosem.ua/en](https://agrosem.ua/en/) Oct 2023 – June 2024
-    * Optimized engineering department operations, transitioning from reactive approaches to proactive project management, resulting in a 10% reduction in construction and repair costs.
+    * <b>Optimized engineering department</b> operations, transitioning from reactive approaches to proactive project management, resulting in a <b>10% reduction in construction and repair costs.</b>
 * **Project Engineer** - The FLAG Service Frankfurt GmbH, Germany [the-flag.de/en](https://the-flag.de/en/) Apr 2022 – Apr 2023
     * Managed the construction of new hotels in Hamburg and Munich, successfully implementing energy-saving measures that yielded a 15% reduction in energy consumption.
 * **Project Manager** - Home Group, Ukraine [homegroupholding.com](https://homegroupholdings.com/about-us/) Jan 2020 – Jan 2022
