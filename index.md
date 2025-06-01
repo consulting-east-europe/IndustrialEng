@@ -16,23 +16,25 @@
 
 ### Professional Profile
 
-A highly accomplished and results-driven Mechanical Engineer with over <b>15 years of progressive experience in strategic project management and industrial construction</b> across diverse sectors, including pharmaceuticals, chemistry, food production, and energy infrastructure. I possess a proven ability to lead complex capital projects (CAPEX) from conceptualization and detailed design through successful execution, commissioning, and handover, consistently achieving project objectives within stringent budgetary and timeline constraints.
+A highly accomplished and results-driven Mechanical Engineer with over <b>15 years of progressive experience in strategic project management and industrial construction</b> across diverse sectors, including <b>pharmaceuticals, chemistry, food production, and energy infrastructure.</b> I possess a proven ability to <b>lead complex capital projects (CAPEX)</b> from conceptualization and detailed design through successful execution, commissioning, and handover, consistently achieving project objectives within stringent budgetary and timeline constraints.
 
-My core competencies include advanced technology integration, the implementation of stringent hygienic design principles, and ensuring rigorous adherence to cGMP and Food Safety compliance. I am adept at fostering cross-functional collaboration, managing multidisciplinary teams, and optimizing operational processes to enhance efficiency and drive significant cost reductions. Actively seeking a challenging leadership or Project Manager role within the EU (specifically in Germany) to apply my extensive expertise in delivering high-impact engineering solutions and fostering operational excellence for a forward-thinking organization.
+My core competencies include <b>advanced technology integration, the implementation of stringent hygienic design principles, and ensuring rigorous adherence to cGMP and Food Safety compliance.</b> I am adept at fostering cross-functional collaboration, managing multidisciplinary teams, and optimizing operational processes to enhance efficiency and drive significant cost reductions. Actively seeking a challenging leadership or Project Manager role within the EU (specifically in Germany) to apply my extensive expertise in <b>delivering high-impact engineering solutions and fostering operational excellence</b> for a forward-thinking organization.
 
 ---
 
 ### Core Skills
 
 * Strategic Project Management (PMBOK, PRINCE2)
+* AI-driven Solutions Integration for enhanced efficiency and automation
 * Industrial Construction & Engineering Design
 * CAPEX Planning & Financial Management
 * Advanced Technology Integration (Hygiene & GMP/Food Safety)
 * Comprehensive Risk Management & Critical Analysis
 * Empathetic Team Leadership & Motivation
-* Languages: English (Fluent), German (B1-B2), Ukrainian (Native), Russian
+* Languages: English (Fluent), German (B1-B2), Ukrainian, Russian
 * FIDIC Contracts Compliance
 * Software Proficiency: AutoCAD, MS Project, SAP
+* Driving licence: B
 
 ---
 
